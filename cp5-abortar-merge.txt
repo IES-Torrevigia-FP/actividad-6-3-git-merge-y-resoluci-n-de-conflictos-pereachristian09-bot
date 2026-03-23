@@ -1,0 +1,3 @@
+El comando git merge --abort sirve para revertir un git merge.
+
+Nos puede salvar en situaciones de fusionar una rama con muchisimos cambios de linea que tenga demasiadas diferencias con la rama main
