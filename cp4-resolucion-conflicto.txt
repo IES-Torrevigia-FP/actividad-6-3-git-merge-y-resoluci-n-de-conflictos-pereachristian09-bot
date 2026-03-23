@@ -1,0 +1,9 @@
+a0e8113 (HEAD -> main) Resuelve conflicto en línea 2 combinando ambas versiones
+80e4121 Modifica línea 2 en main
+eb15e2a (version-alternativa) Modifica línea 2 en rama alternativa
+068c33f (capitulo-1) Añade línea para el capítulo 1
+b862e0a Crea historia inicial en main
+fd6588b (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+Primero he borrado  <<<<<< HEAD, =======, >>>>>>> version-alternativa, he dejado el texto que queria conservar para después hacer un git add al archivo, para después hacer un commit
