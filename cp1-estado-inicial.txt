@@ -1,0 +1,5 @@
+* main
+
+b862e0a (HEAD -> main) Crea historia inicial en main
+fd6588b (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
