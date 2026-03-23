@@ -1,0 +1,8 @@
+EL comando que he usado para el merge ha sido git merge nombre de la rama en mi caso git merge capitulo-1.
+
+068c33f (HEAD -> main, capitulo-1) Añade línea para el capítulo 1
+b862e0a Crea historia inicial en main
+fd6588b (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+Un merge sin conflicto es un merge que no ha dado ningun tipo de problema.
